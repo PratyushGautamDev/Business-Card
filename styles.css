@@ -1,0 +1,18 @@
+body{
+    margin: 20px;
+    font-family: "Edu VIC WA NT Beginner", cursive;
+    font-weight: bold;
+}
+
+.card{
+    width: 400px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    background-color: #a7c957;
+    padding: 20px;
+    border-bottom: 12px solid #57cc99;
+    border-radius: 8px;
+    text-align: center;
+    border-radius: 5px;
+}
